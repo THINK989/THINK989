@@ -12,9 +12,9 @@
 ---
 
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **Deep Reinforcement Learning**
 
-- 🌱 I’m currently learning **Quantum Computing using Q# and Python3**
+- 🌱 I’m currently learning **Julia, Quantum Computing using Q# and Unreal Engine**
 
 - 💬 Ask me about **Deep Learning**
 
